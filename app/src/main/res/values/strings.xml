@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notortalama</string>
+    <string name="sinav1">1.SINAV NOTUNUZU GİRİNİZ</string>
+    <string name="sinav2">2.SINAV NOTUNUZU GİRİNİZ</string>
+    <string name="hesapla">HESAPLA</string>
+    <string name="sonucText">SONUÇ</string>
+</resources>
